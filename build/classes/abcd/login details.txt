@@ -1,0 +1,4 @@
+==========admin login===========
+user name: Admin
+password:123456
+Need to install derby and setup enviornment to run the app
